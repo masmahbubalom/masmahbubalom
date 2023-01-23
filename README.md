@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg)
+![MasterHead](https://miro.medium.com/max/1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg)
 <h1 align="center">Hi There 👋, I'm Mahbub Alom</h1>
 <h3 align="center">I Love Python And Machine Learning</h3>
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
