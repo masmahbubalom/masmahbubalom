@@ -3,6 +3,8 @@
 <h3 align="center">I Love Python And Machine Learning</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif?cid=790b761135021f797e0567ad64ca9a394cf368694dc0a39d&rid=giphy.gif&ct=s">
 
+- 🔭 I’m currently working on **Python**
+- 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **python, c, javascript, html, css, bootstrap**
