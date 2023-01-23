@@ -2,7 +2,6 @@
 <h1 align="center">Hi There 👋, I'm Mahbub Alom</h1>
 <h3 align="center">I Love Python And Machine Learning</h3>
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masmahbubalom&label=Profile%20views&color=0e75b6&style=flat" alt="masmahbubalom" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
