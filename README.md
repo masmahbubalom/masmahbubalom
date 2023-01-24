@@ -8,7 +8,7 @@
 
 - I’m always open to meaningful collaborations.
 
-- Ask me about **Machine Learning, Python, C**
+- Ask me about **Machine Learning, Python**
 
 - How to reach me **masmahbubalom@gmail.com**
 
