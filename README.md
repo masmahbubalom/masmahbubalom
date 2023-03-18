@@ -12,7 +12,7 @@
 
 - How to reach me **masmahbubalom@gmail.com**
 
-- Fun fact **I'm a genius but lazy**
+- Fun fact **I fear snakes**
 
 
 <h3 align="left">My Skills:</h3>
