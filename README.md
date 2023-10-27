@@ -3,7 +3,7 @@
 
 - I am currently learning **Machine Learning**
 
-- I am looking to collaborate on machine learning projects
+- I am looking to collaborate on **Machine Learning** projects
 
 - Ask me about **Machine Learning**
 
