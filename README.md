@@ -1,9 +1,9 @@
 
 ###    Hi There 👋
 
-- I’m currently learning **Machine Learning**
+- I am currently learning **Machine Learning**
 
-- I’m always open to meaningful collaborations.
+- I am looking to collaborate on machine learning projects
 
 - Ask me about **Machine Learning**
 
